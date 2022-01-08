@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/Jeffx234/ignews/blob/main/public/images/logo.svg" alt="IG News" width="280"/>
+   <b> NEXTAUTH </b>
 </p>
 
 <p align="center">
@@ -10,13 +10,12 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-eba417">
 </p>
 
-> <b>nextauth /b> é o quinto projeto criado no chapter 4 da trilha de React do Ignite da Rocketseat. O projeto consiste em estudar as melhores práticas de autenticação no NextJS.
+> <b>nextauth </b> é o quinto projeto criado no chapter 4 da trilha de React do Ignite da Rocketseat. O projeto consiste em estudar as melhores práticas de autenticação no NextJS.
 
 # :pushpin: Conteúdo
 
 - [Tecnologias](#computer-tecnologias)
 - [Executando](#construction_worker-executando)
-- [Desafios](#atom_symbol-desafios)
 - [Autores](#computer-autores)
 - [Licença](#closed_book-licença)
 
@@ -35,16 +34,13 @@ Este projeto foi feito utilizando as seguintes tecnologias:
 
 ```bash
 # Clone o Repositório
-$
+$ https://github.com/Jeffx234/ignite-reactjs-nextauth.git
 ```
 
 ```bash
 # Acesse a pasta do projeto
-$ cd
+$ cd ignite-reactjs-nextauth
 ```
-
-````bash
-
 
 ```bash
 # Baixe as dependendências
